@@ -9,7 +9,6 @@ import Foundation
  divide the number by two and return an binary array using -2 base
  
  [1, 0, 1, 0, 1, 1] == -11
- 
  */
 
 public func solution(_ A : inout [Int]) -> [Int] {
